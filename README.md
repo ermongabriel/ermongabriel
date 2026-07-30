@@ -62,13 +62,13 @@ things work, but making them work well.
         <img src="https://your-screenshot-url-one.png" width="100%" alt="Project One"/>
       </a>
       <br/>
-      <b>Project Name One</b>
+      <b>DO</b>
       <br/>
       Short description — what it does, what problem it solves, and the
       stack used.
       <br/>
-      <a href="https://project-one-live-link.vercel.app">🔗 Live Demo</a> ·
-      <a href="https://github.com/yourusername/project-one">💻 Code</a>
+      <a href="https://do-sage.vercel.app">🔗 Live Demo</a> ·
+      <a href="https://github.com/ermongabriel/do-web">💻 Code</a>
     </td>
     <td width="50%">
       <a href="https://github.com/yourusername/project-two">
@@ -96,12 +96,12 @@ things work, but making them work well.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ermongabriel&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ermongabriel&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ermongabriel&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 <!-- Replace "yourusername" in the 3 lines above with your real GitHub username -->
