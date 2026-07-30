@@ -104,6 +104,12 @@ things work, but making them work well.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ermongabriel&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ermongabriel/ermongabriel/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ermongabriel/ermongabriel/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/paulherveph/paulherveph/output/github-snake.svg"/>
+</picture>
+
 <!-- Replace "yourusername" in the 3 lines above with your real GitHub username -->
 
 ---
