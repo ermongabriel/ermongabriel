@@ -53,29 +53,15 @@ things work, but making them work well.
   <tr>
     <td width="50%">
       <a href="https://github.com/ermongabriel/do-web">
-        <img src="https://your-screenshot-url-one.png" width="100%" alt="Project One"/>
+        <img src="Capture d'écran 2026-07-22 115202.png" width="100%" alt="Project One"/>
       </a>
       <br/>
       <b>DO</b>
       <br/>
-      Short description — what it does, what problem it solves, and the
-      stack used.
+      Multi tenant Communicative and Collaborative SaaS for Institutions so as to improve information flow between institutions and students
       <br/>
       <a href="https://do-sage.vercel.app">🔗 Live Demo</a> ·
       <a href="https://github.com/ermongabriel/do-web">💻 Code</a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/yourusername/project-two">
-        <img src="https://your-screenshot-url-two.png" width="100%" alt="Project Two"/>
-      </a>
-      <br/>
-      <b>Project Name Two</b>
-      <br/>
-      Short description — what it does, what problem it solves, and the
-      stack used.
-      <br/>
-      <a href="https://project-two-live-link.vercel.app">🔗 Live Demo</a> ·
-      <a href="https://github.com/yourusername/project-two">💻 Code</a>
     </td>
   </tr>
 </table>
