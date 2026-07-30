@@ -1,5 +1,4 @@
 name: GitHub Snake Game
-
 on:
   # Schedule the workflow to run daily at midnight UTC
   schedule:
@@ -10,6 +9,10 @@ on:
   push:
     branches:
       - main
+
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -23,7 +26,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           # GitHub username to generate the animation for
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ermongabriel
           # Define the output files and their configurations
           outputs: |
             dist/github-snake.svg
