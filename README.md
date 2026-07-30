@@ -10,12 +10,6 @@
   <img src="banner.png" alt="banner" width="100%"/>
 </p>
 
-<!--
-  ⬆️ Replace the banner URL above with your own image.
-  Easiest option: upload an image to this repo (drag & drop into GitHub's
-  file editor) then right-click → copy the raw link and paste it here.
--->
-
 ---
 
 ## 🧑‍💻 About Me
@@ -58,7 +52,7 @@ things work, but making them work well.
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/yourusername/project-one">
+      <a href="https://github.com/ermongabriel/do-web">
         <img src="https://your-screenshot-url-one.png" width="100%" alt="Project One"/>
       </a>
       <br/>
@@ -86,18 +80,13 @@ things work, but making them work well.
   </tr>
 </table>
 
-<!--
-  ⬆️ Duplicate this block for a 3rd/4th project if you want a 2x2 grid.
-  Replace the image URLs with real screenshots from your own repos.
--->
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ermongabriel&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ermongabriel&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ermongabriel&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ermongabriel&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
@@ -109,8 +98,6 @@ things work, but making them work well.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ermongabriel/ermongabriel/output/github-snake.svg"/>
   <img alt="github-snake" src="https://raw.githubusercontent.com/ermongabriel/ermongabriel/output/github-snake.svg"/>
 </picture>
-
-<!-- Replace "yourusername" in the 3 lines above with your real GitHub username -->
 
 ---
 
@@ -139,8 +126,6 @@ things work, but making them work well.
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-<!-- Replace "yourhandle" in each link above with your real usernames -->
 
 ---
 
