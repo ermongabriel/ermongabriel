@@ -3,7 +3,7 @@
   <img src="banner2.png" alt="Ermon Gabriel - Full Stack Developer" width="100%" style="border-radius: 12px;" />
 <br/><br/>
   <!-- Animated Typing -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4D5A&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+MERN+%C2%B7+PERN+%C2%B7+LAMP+%C2%B7+Next.js+%C2%B7+Nest.js;Building+web+apps+end-to-end;Frontend+%2B+Backend+%2B+Database;Open+to+remote+%26+relocation+opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4D5A&center=true&vCenter=true&width=700&lines=Full-Stack:+MERN+%C2%B7+PERN+%C2%B7+LAMP+%C2%B7+Next.js+%C2%B7+Nest.js;Building+web+apps+end-to-end;Frontend+%2B+Backend+%2B+Database;Open+to+remote+%26+relocation+opportunities" alt="Typing SVG" />
   <br/>
   <!-- Recruiter Quick-Scan Badges -->
   <p>
